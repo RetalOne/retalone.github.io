@@ -171,9 +171,6 @@ params:
         company: "EPLEFPA EDGARD PISANI"
         companyUrl: "https://edgard-pisani.educagri.fr/"
         date: "Juin 2023/15 Janvier-17 février 2024"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         info:
           enable: true
           content: "Technicien système et administrateur réseau"
@@ -183,9 +180,6 @@ params:
         company: "Termoforma"
         companyUrl: "https://www.termoforma-france.com/"
         date: "2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         info:
           enable: true
           content: "Stagiaire"
