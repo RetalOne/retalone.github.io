@@ -171,9 +171,6 @@ params:
         company: "EPLEFPA EDGARD PISANI"
         companyUrl: "https://edgard-pisani.educagri.fr/"
         date: "Juin 2023/15 Janvier-17 février 2024"
-        info:
-          enable: true
-          content: "Technicien système et administrateur réseau"
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
       - job: "Stagiaire chez Termoforma"
@@ -207,7 +204,6 @@ params:
           enable: true
           name: "test"
           url: "https://example.com"
-
       - title: "Bachelor of Science in Computer Science" school:
           name: "Massachusetts Institute of Technology"
           url: "https://example.org"
