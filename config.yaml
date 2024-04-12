@@ -200,10 +200,10 @@ params:
             - Option SVT.
             - Option Mathématiques (option abandonnée en terminale).
             - Spécialité Euro-Anglais.
-        featuredLink:
-          enable: true
-          name: "test"
-          url: "https://example.com"
+#        featuredLink:
+#          enable: true
+#          name: "test"
+#          url: "https://example.com"
       - title: "Bachelor of Science in Computer Science" school:
           name: "Massachusetts Institute of Technology"
           url: "https://example.org"
