@@ -124,8 +124,8 @@ params:
     enable: true
     intro: "Salut, je suis"
     title: "William."
-    subtitle: "Un eleve de SIO"
-    content: "Specialite reseaux"
+    subtitle: "Un élève de SIO"
+    content: "Spécialité réseaux"
     image: /images/Profil.jpg
     bottomImage:
       enable: true
