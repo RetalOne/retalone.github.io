@@ -188,9 +188,8 @@ params:
           url: "https://example.com"
         info:
           enable: true
-          content: J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
-        content: |
-          J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
+          content: "Stagiaire"
+        content: "J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces."
 
       - job: "Junior Software Developer"
         company: "Apple"
