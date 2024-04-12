@@ -190,10 +190,7 @@ params:
           enable: true
           content: J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
 
       - job: "Junior Software Developer"
         company: "Apple"
