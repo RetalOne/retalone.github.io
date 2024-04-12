@@ -150,7 +150,7 @@ params:
   about:
     enable: true
     title: "A propos de moi"
-    image: "/images/Profil.png"
+    image: "/images/Profil.jpg"
     content: |-
       Titulaire d'un baccalauréat général et de la certification PIX, et ayant suivi les spécialités Physique-Chimie et SVT ainsi que la section européenne l'année 2021- 2022, je m'intéresse à l'informatique depuis 2020. Cet intérêt venant en grande partie du confinement lié au Covid-19. J'ai développé une passion pour l'informatique, principalement l'hardware. Je suis une formation en BTS SIO (Brevet de Technicien Supérieur Service Informatique aux Organisations. J'aspire à devenir technicien informatique ou administrateur système.
     skills:
@@ -170,23 +170,25 @@ params:
       - job: "Stagiaire à l'EPLEFPA Edgard PISANI"
         company: "EPLEFPA EDGARD PISANI"
         companyUrl: "https://edgard-pisani.educagri.fr/"
-        date: "Juin 2023/15 Janvier-17 février"
+        date: "Juin 2023/15 Janvier-17 février 2024"
         featuredLink:
           enable: true
-          name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        info:
+²²²²²enable: true
+          content: Technicien système et administrateur réseau
+        content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Stagiaire chez Termoforma"
+        company: "Termoforma"
+        companyUrl: "https://www.termoforma-france.com/"
+        date: "2019"
         featuredLink:
           enable: true
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
