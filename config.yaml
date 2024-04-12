@@ -1,6 +1,6 @@
 baseURL: "https://retalone.github.io"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Portfolio de William"
 theme: hugo-profile
 
 outputs:
@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Portfolio de William"
+  description: Un portfolio parmis tant d'autres
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -122,17 +122,10 @@ params:
   # Hero
   hero:
     enable: true
-<<<<<<< HEAD
-    intro: "Привет, je suis"
-    title: "William."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-=======
     intro: "Salut, je suis"
     title: "William."
-    subtitle: "Je fais pas grand-chose de ma vie"
-    content: "Un streamer, gameur et informaticien."
->>>>>>> 5d757d6 (Update page accueil)
+    subtitle: "Un eleve de SIO"
+    content: "Specialite reseaux"
     image: /images/hero.svg
     bottomImage:
       enable: true
