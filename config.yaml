@@ -194,8 +194,6 @@ params:
           url: "https://example.com"
         date: "2000 - 2005"
         GPA: "3.9 out of 5.0"
-        content: |-
-          Lorem Ipsum
          featuredLink:
            enable: true
            name: "Test"
