@@ -190,6 +190,7 @@ params:
     items:
       - title: "test"
         school:
+          name: "test2"
 
 
 
