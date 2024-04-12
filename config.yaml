@@ -122,10 +122,17 @@ params:
   # Hero
   hero:
     enable: true
+<<<<<<< HEAD
     intro: "Привет, je suis"
     title: "William."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+=======
+    intro: "Salut, je suis"
+    title: "William."
+    subtitle: "Je fais pas grand-chose de ma vie"
+    content: "Un streamer, gameur et informaticien."
+>>>>>>> 5d757d6 (Update page accueil)
     image: /images/hero.svg
     bottomImage:
       enable: true
