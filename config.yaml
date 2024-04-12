@@ -188,6 +188,9 @@ params:
     # title: "Custom Name"
     index: false
     items:
+      - title: "test"
+
+
 
   # Achievements
   achievements:
