@@ -191,6 +191,7 @@ params:
       - title: "Baccalauréat général"
         school:
           name: "Lycée Georges Colomb"
+          url: "https://www.lyc-colomb.ac-besancon.fr"
 
 
 
