@@ -191,8 +191,8 @@ params:
       - title: "Baccalauréat général"
         school:
           name: "Lycée Georges Colomb"
-          url: "https://www.lyc-colomb.ac-besancon.fr"
-
+          url: "https://www.lyc-colomb.ac-besancon.fr/
+        date: "Septembre 2020- Juin 2022"
 
 
   # Achievements
