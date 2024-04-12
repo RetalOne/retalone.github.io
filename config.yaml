@@ -198,11 +198,12 @@ params:
         date: "Septembre 2020-Juin 2022"
         GPA: "3.8 out of 5.0"
         content: |-
-          Spécialitées étudieés:
-            - Option Physique-Chimie
-            - Option SVT
-            - Option Mathématiques (option abandonnée en terminale)
-            - Spécialité Euro-Anglais
+          Options :
+            - Option Physique-Chimie.
+            - Option SVT.
+            - Option Mathématiques (option abandonnée en terminale).
+            - Spécialité Euro-Anglais.
+
       - title: "Bachelor of Science in Computer Science" school:
           name: "Massachusetts Institute of Technology"
           url: "https://example.org"
@@ -220,6 +221,7 @@ params:
           enable: true
           name: "My academic record"
           url: "https://example.com"
+
       - title: "High School"
         school:
           name: "Thomas Jefferson High School for Science and Technology."
