@@ -189,6 +189,7 @@ params:
     index: false
     items:
       - title: "test"
+        school:
 
 
 
