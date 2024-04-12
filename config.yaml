@@ -182,6 +182,27 @@ params:
           content: "Stagiaire"
         content: "J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces."
 
+  # Education
+  education:
+    enable: true
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "Bachelor of science"
+        school:
+          name: "Nom Ecole"
+          url: "https://example.com"
+        date: "2000 - 2005"
+        GPA: "3.9 out of 5.0"
+        content: |-
+          Lorem Ipsum
+          -Lorem Ipsum
+          -Lorem Ipsum
+         featuredLink:
+           enable: true
+           name: "Test"
+           url: "https://example.com"
+
   # Achievements
   achievements:
     enable: true
