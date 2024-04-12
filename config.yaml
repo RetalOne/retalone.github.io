@@ -126,7 +126,7 @@ params:
     title: "William."
     subtitle: "Un eleve de SIO"
     content: "Specialite reseaux"
-    image: /images/hero.svg
+    image: /images/Profil.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
