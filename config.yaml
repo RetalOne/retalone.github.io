@@ -175,7 +175,7 @@ params:
           enable: true
           url: "https://example.com"
         info:
-²²²²²enable: true
+          enable: true
           content: "Technicien système et administrateur réseau"
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
