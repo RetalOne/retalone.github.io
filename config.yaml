@@ -196,8 +196,7 @@ params:
         GPA: "3.9 out of 5.0"
         content: |-
           Lorem Ipsum
-          -Lorem Ipsum
-          -Lorem Ipsum
+          -test
          featuredLink:
            enable: true
            name: "Test"
