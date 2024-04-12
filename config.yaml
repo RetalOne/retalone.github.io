@@ -188,9 +188,9 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "test"
+      - title: "Baccalauréat général"
         school:
-          name: "test2"
+          name: "Lycée Georges Colomb"
 
 
 
