@@ -225,6 +225,15 @@ params:
           #enable: true
           #url: "https://example.com"
 
+      - title: "Brevet"
+        school:
+          name: "Collège la Rochotte"
+          url: "https://clg-la-rochotte.monbureaunumerique.fr/"
+        date: "Septembre 2015 - Juin 2019"
+        content: |-
+          Diplôme obtenu
+          - Brevet des collèges, mention très bien.
+
 
   # Achievements
   achievements:
