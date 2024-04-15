@@ -75,7 +75,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    # defaultTheme: "dark" # light
 
   font:
     fontSize: 1rem # default: 1rem
@@ -105,7 +105,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Made by RetalOne's Corporation" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -139,9 +139,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/RetalOne
         - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://x.com/OneRetal
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -161,6 +161,8 @@ params:
         - "ESXi"
         - "WAPT"
         - "HYPER-V"
+        - "Hyperius Backup"
+        - "Truenas"
 
   # Experience
   experience:
@@ -171,6 +173,9 @@ params:
         company: "EPLEFPA EDGARD PISANI"
         companyUrl: "https://edgard-pisani.educagri.fr/"
         date: "Juin 2023/15 Janvier-17 février 2024"
+        info:
+          enable: true
+          content: "Stagiaire"
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
       - job: "Stagiaire chez Termoforma"
@@ -188,32 +193,37 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Baccalauréat général"
+      - title: "Baccalauréat général (Première et terminale)"
         school:
           name: "Lycée Georges Colomb"
           url: "https://www.lyc-colomb.ac-besancon.fr"
         date: "Septembre 2020 - Juin 2022"
         content: |-
           Options
-          - J'ai fais mes années de Première et de Terminale au Lycée Georges Colomb de Lure avec les spécialités Physique-Chimie/SVT/Maths en Première et Physique-Chimie/SVT en Terminale. J'ai obtenu mon baccalauréat.
-          - Face mask detection using a single convolutional neural network.
+          - Physique-Chimie jusqu'en terminale
+          - SVT jusqu'en terminale
+          - Mathématiques jusqu'en première
+          - Option Euro-Anglais jusqu'en terminale
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          Résultat du baccalauréat
+            - Baccalauréat obtenu sans mention.
+        #featuredLink:
+          #enable: true
+          #name: "My academic record"
+          #url: "https://example.com"
 
-      - title: "High School"
+      - title: "Baccalauréat général (seconde)"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Lycée Charles de Gaulle"
+          url: "https://www.lyceecdg52.com/"
+        date: "Septembre 2019 - Juin 2020"
+        content: |-
+          Options
+          - Euro Anglais
+          - Sciences de l'ingénieur
+        #featuredLink:
+          #enable: true
+          #url: "https://example.com"
 
 
   # Achievements
