@@ -352,7 +352,7 @@ params:
     read: "Read"
     toc: "Table Of Contents"
     copyright: "Made By RetalOne's Corporation with HUGO"
-    pageNotFound: "Vous avez trouvé ... Le néant, il n'y a rien ici."
+    pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore."
     emailText: "Mon portfolio"
 
   datesFormat:
