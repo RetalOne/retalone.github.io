@@ -265,7 +265,7 @@ params:
     items:
       - title: Portfolio avec HUGO
         content: Le portfolio que vous êtes en train de lire.
-        image: /images/projects/Page1.png
+        image: /images/projects/Page1.PNG
         links:
           - icon: fab fa-github
             url: https://github.com/retalOne/retalone.github.io
@@ -274,7 +274,7 @@ params:
 
       - title: Conversion machines Hyper-V vers ESXi
         content: Ce projet porte sur la conversion de machines au format VHDX vers le format VMDK.
-        image: /images/projects/conversion.png
+        image: /images/projects/conversion.PNG
         #featured:
           #name: Demo
           #link: https://django-converter.herokuapp.com
