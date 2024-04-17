@@ -351,9 +351,9 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
-    emailText: "Check out this site"
+    copyright: "Made By RetalOne's Corporation with HUGO"
+    pageNotFound: "Vous avez trouvé ... Le néant, il n'y a rien ici."
+    emailText: "Mon portfolio"
 
   datesFormat:
     article: "Jan 2, 2006"
