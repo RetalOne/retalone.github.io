@@ -171,22 +171,32 @@ params:
     title: "Expériences professionnelles"
     items:
       - job: "Stagiaire à l'EPLEFPA Edgard PISANI"
-        company: "EPLEFPA EDGARD PISANI"
-        companyUrl: "https://edgard-pisani.educagri.fr/"
-        date: "Juin 2023/15 Janvier-17 février 2024"
+        company: "EPLEFPA Edgard PISANI"
+        date: "Juin 2023 et 15 Janvier - 17 février 2024"
+        featuredLink:
+          enable: true
+          name: "EPLEFPA Edgard PISANI"
+          url: "https://edgard-pisani.educagri.fr"
         info:
           enable: true
           content: "Stagiaire"
-        content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
+        content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur,
+             renforcer des aquis tout en augmentant la liste de ceux-ci."
 
       - job: "Stagiaire chez Termoforma"
         company: "Termoforma"
-        companyUrl: "https://www.termoforma-france.com/"
         date: "2019"
+        featuredLink:
+          enable: true
+          name: "Termoforma"
+          url: "https://termoforma-france.com"
         info:
           enable: true
-          content: "Stagiaire"
-        content: "J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final. J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces."
+          content: Stagiaire
+        content: |
+          J'ai effectué mon stage de troisième dans l'entreprise de fabrication de pièces de motos Termoforma durant une semaine. J'ai pu participer à la création d'une pièce, de son moulage à sa découpe jusqu'à emballage final.
+          J'ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
+
 
   # Education
   education:
