@@ -168,7 +168,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Expériences professionnelles"
     items:
       - job: "Stagiaire à l'EPLEFPA Edgard PISANI"
         company: "EPLEFPA EDGARD PISANI"
@@ -239,7 +239,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Diplômes"
     items:
       - title: Brevet des Collèges
         content: Obtention du Brevet des Collèges avec mention très bien
@@ -261,7 +261,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Projets"
     items:
       - title: Portfolio avec HUGO
         content: Le portfolio que vous êtes en train de lire.
