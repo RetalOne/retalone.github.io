@@ -143,8 +143,8 @@ params:
         - icon: fab fa-x-twitter
           url: https://x.com/OneRetal
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /instagram.jfif
+          url: "https://instagram.com/retaloneofficial"
 
   # About
   about:
