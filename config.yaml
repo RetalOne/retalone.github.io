@@ -132,7 +132,7 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "Résumé"
       url: "#"
       download: true
       newPage: false
