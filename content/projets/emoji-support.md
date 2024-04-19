@@ -1,14 +1,12 @@
 ---
-title: "Emoji Support"
-date: 2021-04-03T22:53:58+05:30
+title: "Déploiement de la solution WAPT"
+date: 2024-01T22:53:58+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+author: "RetalOne"
 tags:
-  - Emoji support
-  - Sample
-  - example
-image: /images/post.jpg
+  - WAPT
+image: /images/projects/wapt.png
 description: ""
 toc: 
 ---
