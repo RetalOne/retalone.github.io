@@ -105,7 +105,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Made by RetalOne's Corporation" # Brand name for the brand | default is the title variable
+    brandName: "Made by William" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -351,7 +351,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "Made By RetalOne's Corporation with HUGO"
+    copyright: "Made By William with HUGO"
     pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore."
     emailText: "Mon portfolio"
 
