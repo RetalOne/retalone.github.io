@@ -2,7 +2,7 @@
 title: "Conversion machines Hyper-V vers ESXi"
 date: 2024-04-18T19:53:33+05:30
 draft: false
-author: "RetalOne"
+author: "William"
 tags:
   - Hyper-V
   - ESXi
