@@ -1,18 +1,14 @@
 ---
-title: "Cette page est en cours de développement"
-date: 2024-04-18T19:53:33+05:30
+title: "Termoforma"
+date: 2019-05-18T19:53:33+05:30
 draft: false
-author: "RetalOne"
-#tags:
-  #- Hyper-V
-  #- ESXi
-  #- QEMU-IMG
-image: /images/travaux.jpg
+author: "William"
 description: ""
 toc: true
 mathjax: true
 ---
 
-## Work in progress
+## Stagiaire à Termoforma/CFPS
 
-Cette page est en développement, revenez plus tard!
+J’ai effectué mon stage de troisième dans l’entreprise de fabrication de pièces de motos Termoforma durant une semaine. J’ai pu participer à la création d’une pièce, de son moulage à sa découpe jusqu’à emballage final. J’ai pu ainsi voir et comprendre toutes les étapes de fabrication des différentes pièces.
+
