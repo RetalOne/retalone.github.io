@@ -2,8 +2,8 @@
 title: "Déploiement de la solution WAPT"
 date: 2024-01-17T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "RetalOne"
+#github_link: "https://github.com/gurusabarish/hugo-profile"
+author: "William"
 tags:
   - WAPT
 image: /images/projects/wapt.png
