@@ -7,7 +7,7 @@ tags:
   - Hyper-V
   - ESXi
   - QEMU-IMG
-image: /images/mathjax.png
+image: /images/qemu.jpg
 description: ""
 toc: true
 mathjax: true
