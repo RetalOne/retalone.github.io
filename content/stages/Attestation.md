@@ -1,6 +1,6 @@
 ---
-title: "EPLEFPA Edgard PISANI"
-date: 2024-01-17T22:53:58+05:30
+title: "Attestations de stages"
+date: 2022-2023/2023-2024T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
