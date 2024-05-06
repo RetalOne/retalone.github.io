@@ -12,4 +12,4 @@ toc:
 
 
 ## [Attestation de stage, année 2023-2024](/images/stages/Attestation2.pdf)
-![Attestation 2023-2024](images/stages/Attestation2.png "Attestation 2023-2024")
+![Attestation 2023-2024](/images/stages/Attestation2.png "Attestation 2023-2024")
