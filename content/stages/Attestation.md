@@ -7,8 +7,9 @@ description: "Attestations"
 toc: 
 ---
 
-## Attestation de stage, année 2022-2023
+## [Attestation de stage, année 2022-2023](/static/images/stages/Attestation1.pdf)
+
 ![Attestation 2022-2023](Attestation1.png "Attestation 2022-2023")
 
-## Attestation de stage, année 2023-2024
+## [Attestation de stage, année 2023-2024](/static/images/stages/Attestation2.pdf)
 ![Attestation 2023-2024](Attestation2.png "Attestation 2023-2024")
