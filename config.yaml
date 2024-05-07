@@ -38,9 +38,9 @@ Menus:
       name: Tableau de compétences
       title: Tableau de compétences
       url: /tdc/
-    - identifier: CV1
-      name: CV2
-      title: CV3
+    - identifier: CV
+      name: CV
+      title: CV #titre donné dans la barre supérieure
       url: /CV/
     #Dropdown menu
     # - identifier: dropdown
