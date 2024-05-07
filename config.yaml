@@ -38,6 +38,10 @@ Menus:
       name: Tableau de compétences
       title: Tableau de compétences
       url: /tdc/
+    - identifier: CV
+      name: CV
+      title: CV
+      url: /CV/
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
