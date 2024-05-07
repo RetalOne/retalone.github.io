@@ -317,7 +317,7 @@ params:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/HugoProfileV2
   #CV
-  cv:
+  contact:
     enable: true
     title: Mon CV
     content: Test
