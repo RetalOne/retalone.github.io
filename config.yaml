@@ -38,9 +38,9 @@ Menus:
       name: Tableau de compétences
       title: Tableau de compétences
       url: /tdc/
-    - identifier: CuriVitae
+    - identifier: CV
       name: CV #titre donné dans la barre supérieure
-      title: CuVi 
+      title: Mon CV #titre donné lorsqu'on passe la souris sur la catégorie
       url: /CV/
     #Dropdown menu
     # - identifier: dropdown
