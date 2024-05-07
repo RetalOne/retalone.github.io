@@ -319,7 +319,7 @@ params:
   #CV
   contact:
     enable: true
-    title: Mon CV
+    title: "Mon CV"
     content: Test
 
   #Contact
