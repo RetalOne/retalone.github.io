@@ -330,6 +330,12 @@ params:
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
 
+  #CV
+  cv:
+    enable: true
+    title: Mon CV
+    content: Test
+
   footer:
     recentPosts:
       path: "blogs"
