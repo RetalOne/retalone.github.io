@@ -63,7 +63,7 @@ Menus:
 
 params:
   title: "Portfolio de William"
-  description: Un portfolio parmis tant d'autres
+  description: "Un portfolio parmis tant d'autres"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
