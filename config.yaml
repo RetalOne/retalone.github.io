@@ -316,6 +316,11 @@ params:
         #links:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/HugoProfileV2
+  #CV
+  cv:
+    enable: true
+    title: Mon CV
+    content: Test
 
   #Contact
   contact:
@@ -329,12 +334,6 @@ params:
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
-
-  #CV
-  cv:
-    enable: true
-    title: Mon CV
-    content: Test
 
   footer:
     recentPosts:
