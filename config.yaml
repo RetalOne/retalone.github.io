@@ -316,12 +316,7 @@ params:
         #links:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/HugoProfileV2
-  #CV
-  contact:
-    enable: true
-    title: "Mon CV"
-    content: Test
-
+  
   #Contact
   contact:
     enable: true
