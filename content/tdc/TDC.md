@@ -1,6 +1,6 @@
 ---
 title: "Tableau de Compétences" #titre de la page
-date: 2024-01-17T22:53:58+05:30
+date: 2024-05-21T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
