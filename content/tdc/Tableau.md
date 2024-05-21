@@ -8,5 +8,5 @@ description: ""
 toc: 
 ---
 
-## [Tableau de Compétences](/images/TDC/TDC.png)
-![Tableau de Compétences](/images/TDC/TDC.png "Tableau de Compétences")
+## [Tableau de Compétences](/images/Tableau/Tableau.png)
+![Tableau de Compétences](/images/Tableau/Tableau.png "Tableau de Compétences")
