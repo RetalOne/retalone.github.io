@@ -37,7 +37,7 @@ Menus:
     - identifier: Tableau de compétences
       name: Tableau de compétences
       title: Tableau de compétences
-      url: /Tableau/
+      url: /tableau/
     - identifier: CV
       name: CV #titre donné dans la barre supérieure
       title: Mon CV #titre donné lorsqu'on passe la souris sur la catégorie
