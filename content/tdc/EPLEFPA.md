@@ -8,5 +8,5 @@ description: ""
 toc: 
 ---
 
-## [Tableau de Compétences](/images/TDC/.pdf)
+## [Tableau de Compétences](/images/TDC/TDC.xlsx)
 ![CV](/images/CV/CV.png "Curriculum Vitae")
