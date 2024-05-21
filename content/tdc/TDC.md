@@ -9,4 +9,4 @@ toc:
 ---
 
 ## [Tableau de Compétences](/images/TDC/TDC.xlsx)
-![CV](/images/TDC/TDC.xlsx "Tableau de Compétences")
+![Tableau de Compétences](/images/TDC/TDC.xlsx "Tableau de Compétences")
