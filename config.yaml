@@ -44,6 +44,12 @@ Menus:
       title: Tableau de compétences
       url: /Tableau/
       weight: 4
+    - identifier: Veille Technologique
+      name: Veille Technologique
+      title: Veille Technologique
+      url: /VT/
+      weight: 5
+
     
     #Dropdown menu
     # - identifier: dropdown
