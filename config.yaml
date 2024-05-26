@@ -47,7 +47,7 @@ Menus:
     - identifier: Veille Technologique
       name: Veille Technologique
       title: Veille Technologique
-      url: /VT/
+      url: /Veille/
       weight: 5
 
     
