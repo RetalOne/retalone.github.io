@@ -267,12 +267,12 @@ params:
     enable: true
     title: "Diplômes"
     items:
+      - title: Baccalauréat Général
+        content: Obtention du Baccalauréat Général options Physique-Chimie/SVT
+        #image: /images/achievment.jpg
       - title: Brevet des Collèges
         content: Obtention du Brevet des Collèges avec mention très bien
         #url: https://example.com
-        #image: /images/achievment.jpg
-      - title: Baccalauréat Général
-        content: Obtention du Baccalauréat Général options Physique-Chimie/SVT sans mention
         #image: /images/achievment.jpg
       #- title: Hugo Profile
         #content: Developed a theme and getting 1K+ downloads per month.
