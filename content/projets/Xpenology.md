@@ -1,16 +1,18 @@
 ---
-title: "Déploiement de la solution WAPT"
+title: "NAS Xpenology"
 date: 2024-01-17T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
 tags:
-  - WAPT
-image: /images/projects/wapt.png
+  - NAS
+  - SYNOLOGY
+  - XPENOLOGY
+#image: /images/projects/wapt.png
 description: ""
 toc: 
 ---
 
-## Déploiement de WAPT
+## Mise en place d'un NAS
 
-WAPT est un logiciel utilisable dans un parc informatique pour gérer les machines s'y trouvant, en accédant aux informations matérielles et logicielles des ordinateurs. Ce logiciel permet également de déployer de manière invisible de nombreux logiciels présents dans leur magasin pour les postes du réseau. Ce logiciel peut être déployé manuellement sur les postes ou via une GPO, qui est la manière la plus rapide.
+Un NAS avec redondance a été installé sur l'hyperviseur Proxmox. Du fait du caractère fermé de l'OS de Synology, une solution annexe a dû être utilisée, ici XPenology
