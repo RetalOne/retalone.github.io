@@ -1,16 +1,17 @@
 ---
-title: "Déploiement de la solution WAPT"
+title: "PfSense"
 date: 2024-01-17T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
 tags:
-  - WAPT
-image: /images/projects/wapt.png
+  - Pare-Feu
+  - PfSense
+#image: /images/projects/wapt.png
 description: ""
 toc: 
 ---
 
-## Déploiement de WAPT
+## Mise en place d'un pare-feu
 
-WAPT est un logiciel utilisable dans un parc informatique pour gérer les machines s'y trouvant, en accédant aux informations matérielles et logicielles des ordinateurs. Ce logiciel permet également de déployer de manière invisible de nombreux logiciels présents dans leur magasin pour les postes du réseau. Ce logiciel peut être déployé manuellement sur les postes ou via une GPO, qui est la manière la plus rapide.
+Un pare-feu PfSense a été mis en place dans le contexte d'une entreprise déployée dans plusieurs zones géograpghiques. Un portail captif ainsi que divers VPN ont été mis en place dans ce pare-feu.
