@@ -24,11 +24,11 @@ markup:
 
 Menus:
   main:
-    - identifier: AP
-      name: Projets
-      title: Projets
-      url: /projets/
-      weight: 1
+    #- identifier: AP
+      #name: Projets
+      #title: Projets
+      #url: /projets/
+      #weight: 1
     - identifier: Stages
       name: Stages
       title: Stages
