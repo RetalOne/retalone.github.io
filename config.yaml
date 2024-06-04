@@ -49,6 +49,11 @@ Menus:
       title: Veille Technologique
       url: /Veille/
       weight: 5
+    - identifier: Certifications
+      name: Certs
+      title: Certifs
+      url: /Certifications/
+      weight: 6
 
     
     #Dropdown menu
