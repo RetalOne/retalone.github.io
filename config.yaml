@@ -291,7 +291,7 @@ params:
     items:
       - title: Conversion machines Hyper-V vers ESXi
         content: Ce projet porte sur la conversion de machines au format VHDX vers le format VMDK.
-        image: /images/projects/conversion.PNG
+        image: /images/projects/qemu.jpg
         #featured:
           #name: Demo
           #link: https://django-converter.herokuapp.com
