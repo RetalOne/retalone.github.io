@@ -50,7 +50,7 @@ Menus:
       url: /Veille/
       weight: 5
     - identifier: Certifications
-      name: Certs
+      name: Certifications
       title: Certifs
       url: /Certifications/
       weight: 6
