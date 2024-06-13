@@ -52,7 +52,7 @@ Menus:
     - identifier: Certifications
       name: Certifications
       title: Certifications
-      url: /Certifications/
+      url: /Certification/
       weight: 6
 
     
