@@ -25,5 +25,7 @@ toc:
 ![Certifications](/images/Certifications/5.png "Module 5")
 
 ## [Certification Pix N°1](/images/Certifications/Pix1.pdf)
+![Certifications](/images/Certifications/Pix1.png "Pix 1")
 
 ## [Certification Pix N°2](/images/Certifications/Pix2.pdf)
+![Certifications](/images/Certifications/Pix2.png "Pix 2")
