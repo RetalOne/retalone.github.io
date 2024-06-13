@@ -23,3 +23,7 @@ toc:
 
 ## [MODULE 5: LES COLLECTIVITÉS TERRITORIALES](/images/Certifications/5.pdf)
 ![Certifications](/images/Certifications/5.png "Module 5")
+
+## [Certification Pix N°1](/images/Certifications/Pix1.pdf)
+
+## [Certification Pix N°2](/images/Certifications/Pix2.pdf)
