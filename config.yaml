@@ -146,7 +146,7 @@ params:
     enable: true
     intro: "Salut, je suis"
     title: "William."
-    subtitle: "Un élève de SIO"
+    subtitle: "Un étudiant en licence d'informatique"
     content: "Spécialité réseaux"
     image: /images/Profil.jpg
     bottomImage:
@@ -174,7 +174,7 @@ params:
     title: "A propos de moi"
     image: "/images/Profil.jpg"
     content: |-
-      Titulaire d'un baccalauréat général et de la certification PIX, et ayant suivi les spécialités Physique-Chimie et SVT ainsi que la section européenne l'année 2021- 2022, je m'intéresse à l'informatique depuis 2020. Cet intérêt venant en grande partie du confinement lié au Covid-19. J'ai développé une passion pour l'informatique, principalement l'hardware. Je suis une formation en BTS SIO (Brevet de Technicien Supérieur Service Informatique aux Organisations. J'aspire à devenir technicien informatique ou administrateur système.
+      Titulaire d'un baccalauréat général et de la certification PIX, et ayant suivi les spécialités Physique-Chimie et SVT ainsi que la section européenne l'année 2021- 2022, je m'intéresse à l'informatique depuis 2020. Cet intérêt venant en grande partie du confinement lié au Covid-19. J'ai développé une passion pour l'informatique, principalement l'hardware. Je suis une licence d'informatique option cybersécurité en alternance, avec comme entreprise l'Ecole de Gendarmerie de Chaumont. J'aspire à devenir technicien informatique ou administrateur système.
     skills:
       enable: true
       title: "Systèmes et logiciels avec lesquels je suis à l'aise:"
@@ -192,13 +192,24 @@ params:
     enable: true
     title: "Expériences professionnelles"
     items:
+      - job: "Alternant à l'ESOG de Chaumont"
+        company: "Ministère de l'Intérieur"
+        date: "du 01/09/24 au 30/08/25"
+        featuredLink:
+          enable: true
+          name: "ESOG de Chaumont"
+          url: "https://www.ecole-gendarmerie-chaumont.fr/"
+        info:
+          enable: true
+          content: |
+            Alternant dans la cellule SIC
+      
       - job: "Intermarché, Caissier Polyvalent"
         company: "INTERMARCHÉ"
         date: "2024"
         featuredLink:
           enable: true
           name: "Intermarché"
-          #url: "https://termoforma-france.com"
         info:
           enable: true
           content: Caissier
@@ -225,9 +236,18 @@ params:
     # title: "Custom Name"
     index: false
     items:
+      - title: "BTS SIO"
+        school:
+          name: "Lycée Edmé BOUCHARDON"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "Septembre 2022 - Juin 2024"
+        content: |-
+          Spécialité SISR
+          Diplôme obtenu
+          
       - title: "Baccalauréat général (Première et terminale)"
         school:
-          name: "Lycée Georges Colomb"
+          name: "Lycée Georges COLOMB"
           url: "https://www.lyc-colomb.ac-besancon.fr"
         date: "Septembre 2020 - Juin 2022"
         content: |-
@@ -272,6 +292,8 @@ params:
     enable: true
     title: "Diplômes"
     items:
+      - title: BTS SIO
+        content: Obtention du diplôme de BTS SIO option SISR
       - title: Baccalauréat Général
         content: Obtention du Baccalauréat Général options Physique-Chimie/SVT
         #image: /images/achievment.jpg
@@ -364,7 +386,7 @@ params:
     read: "Read"
     toc: "Table Of Contents"
     copyright: "Made By William with HUGO"
-    pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore."
+    pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore. Si vous pensez être au bon endroit, contactez-moi."
     emailText: "Mon portfolio"
 
   datesFormat:
