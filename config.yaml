@@ -194,7 +194,7 @@ params:
     items:
       - job: "Alternant à l'ESOG de Chaumont"
         company: "Ministère de l'Intérieur"
-        date: "du 01/09/24 au 30/08/25"
+        date: "01/09/24 - 30/08/25"
         featuredLink:
           enable: true
           name: "ESOG de Chaumont"
