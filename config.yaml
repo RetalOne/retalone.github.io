@@ -201,8 +201,8 @@ params:
           url: "https://www.ecole-gendarmerie-chaumont.fr/"
         info:
           enable: true
-          content: |
-            Alternant dans la cellule SIC
+          content: Ecole de Gendarmerie de Chaumont
+        content: Alternant dans la cellule SIC
       
       - job: "Intermarché, Caissier Polyvalent"
         company: "INTERMARCHÉ"
