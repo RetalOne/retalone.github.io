@@ -191,19 +191,7 @@ params:
   experience:
     enable: true
     title: "Expériences professionnelles"
-    items:
-      - job: "Alternant à l'ESOG de Chaumont"
-        company: "Ministère de l'Intérieur"
-        date: "2025"
-        featuredLink:
-          enable: true
-          name: "ESOG de Chaumont"
-          url: "https://www.ecole-gendarmerie-chaumont.fr/"
-        info:
-          enable: true
-          content: "Ecole de Gendarmerie de Chaumont"
-        content: "Alternant dans la cellule SIC."
-      
+    items:    
       - job: "Intermarché, Caissier Polyvalent"
         company: "INTERMARCHÉ"
         date: "2024"
@@ -224,7 +212,18 @@ params:
           content: "Stagiaire"
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
-
+      - job: "Alternant à l'ESOG de Chaumont"
+        company: "Ministère de l'Intérieur"
+        date: "2025"
+        featuredLink:
+          enable: true
+          name: "ESOG de Chaumont"
+          url: "https://www.ecole-gendarmerie-chaumont.fr/"
+        info:
+          enable: true
+          content: "Ecole de Gendarmerie de Chaumont"
+        content: "Alternant dans la cellule SIC."
+        
   # Education
   education:
     enable: true
