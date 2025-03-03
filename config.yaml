@@ -194,7 +194,7 @@ params:
     items:
       - job: "Alternant à l'ESOG de Chaumont"
         company: "Ministère de l'Intérieur"
-        #date: "1er septembre 2024 - 30 août 2025"
+        date: "2025"
         featuredLink:
           enable: true
           name: "ESOG de Chaumont"
@@ -207,9 +207,6 @@ params:
       - job: "Intermarché, Caissier Polyvalent"
         company: "INTERMARCHÉ"
         date: "2024"
-        featuredLink:
-          enable: true
-          name: "Intermarché"
         info:
           enable: true
           content: "Caissier"
