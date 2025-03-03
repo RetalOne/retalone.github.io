@@ -202,8 +202,7 @@ params:
         info:
           enable: true
           content: "Ecole de Gendarmerie de Chaumont"
-        content: |
-          Alternant dans la cellule SIC.
+        content: "Alternant dans la cellule SIC."
       
       - job: "Intermarché, Caissier Polyvalent"
         company: "INTERMARCHÉ"
