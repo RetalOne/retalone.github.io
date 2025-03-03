@@ -210,8 +210,7 @@ params:
         info:
           enable: true
           content: "Caissier"
-        content: |
-          Emploi étudiant, en tant que caissier polyvalent.
+        content: "Emploi étudiant, en tant que caissier polyvalent."
           
       - job: "Stagiaire à l'EPLEFPA Edgard PISANI"
         company: "EPLEFPA Edgard PISANI"
@@ -223,8 +222,7 @@ params:
         info:
           enable: true
           content: "Stagiaire"
-        content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur,
-             renforcer des aquis tout en augmentant la liste de ceux-ci."
+        content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
 
   # Education
