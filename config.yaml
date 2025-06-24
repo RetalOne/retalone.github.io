@@ -220,6 +220,14 @@ params:
     # title: "Custom Name"
     index: false
     items:
+      - title: "Licence d'Informatique Option Cybersécurité"
+        school:
+          name: "CNAM Grand-Est (site de Chaumont)"
+          url: "https://www.cnam-grandest.fr/lieux-de-formation/chaumont/"
+        date: "Septembre 2024 - Juin 2025"
+        content: |-
+          En attente des résultats
+          
       - title: "BTS SIO"
         school:
           name: "Lycée Edmé BOUCHARDON"
