@@ -209,18 +209,17 @@ params:
           content: "Ecole de Gendarmerie de Chaumont"
         content: "Alternant dans la cellule SIC."
 
-      - job: "Alternant à l'ESOG de Chaumont"
-        company: "Ministère de l'Intérieur"
-        date: "2025"
+      - job: "JOB"
+        company: "COMPANY"
+        date: "DATE"
         featuredLink:
           enable: true
-          name: "ESOG de Chaumont"
-          url: "https://www.ecole-gendarmerie-chaumont.fr/"
+          name: "NAME"
+          url: "URL"
         info:
           enable: true
-          content: "Ecole de Gendarmerie de Chaumont"
-        content: "Alternant dans la cellule SIC."
-        
+          content: "CONTENT"
+        content: "CONTENT."
   # Education
   education:
     enable: true
