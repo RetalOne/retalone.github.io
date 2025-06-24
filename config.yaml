@@ -198,7 +198,7 @@ params:
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
       - job: "Alternant à l'ESOG de Chaumont"
-        company: "Ministère de l Intérieur"
+        company: "Ecole de Gendarmerie de Chaumont"
         date: "2025"
         featuredLink:
           enable: true
@@ -209,17 +209,6 @@ params:
           content: "Ecole de Gendarmerie de Chaumont"
         content: "Alternant dans la cellule SIC."
 
-      - job: "Alternant à l'ESOG de Chaumont"
-        company: "Ministère de l'Intérieur"
-        date: "DATE"
-        featuredLink:
-          enable: true
-          name: "NAME"
-          url: "URL"
-        info:
-          enable: true
-          content: "CONTENT"
-        content: "CONTENT."
   # Education
   education:
     enable: true
