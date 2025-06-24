@@ -306,7 +306,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "Projets"
+    title: "Projets personnels"
     items:
       - title: Ce portfolio
         content: Ce portfolio a été créé pour des nécessités de cours, puis modifié pour correspondre à ce que vous visualisez actuellement.
