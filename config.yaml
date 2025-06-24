@@ -147,11 +147,11 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/RetalOne
-        - icon: fab fa-x-twitter
-          url: https://x.com/OneRetal
+        #- icon: fab fa-x-twitter
+          #url: https://x.com/OneRetal
       customIcons:
-        - icon: /instagram.jfif
-          url: "https://instagram.com/retaloneofficial"
+        #- icon: /instagram.jfif
+          #url: "https://instagram.com/retaloneofficial"
 
   # About
   about:
@@ -358,8 +358,8 @@ params:
     socialNetworks:
       github: https://github.com/RetalOne
       linkedin: https://linkedin.com
-      twitter: https://twitter.com/OneRetal
-      instagram: https://instagram.com/retaloneofficial
+      #twitter: https://twitter.com/OneRetal
+      #instagram: https://instagram.com/retaloneofficial
       #facebook: https://facebook.com
 
   # List pages like blogs and posts
@@ -379,7 +379,7 @@ params:
     read: "Read"
     toc: "Table Of Contents"
     copyright: "Made By William with HUGO"
-    pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore. Si vous pensez être au bon endroit, contactez-moi."
+    pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore, ou peut-être que si? Si vous pensez être au bon endroit, contactez-moi."
     emailText: "Mon portfolio"
 
   datesFormat:
