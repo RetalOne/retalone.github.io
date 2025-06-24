@@ -197,12 +197,12 @@ params:
           content: "Stagiaire"
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
-      - job: "Alternant à l'ESOG de Chaumont"
+      - job: "Alternant à l'école de Gendarmerie de Chaumont"
         company: "Ecole de Gendarmerie de Chaumont"
         date: "2025"
         featuredLink:
           enable: true
-          name: "ESOG de Chaumont"
+          name: "Ecole de Gendarmerie de Chaumont"
           url: "https://www.ecole-gendarmerie-chaumont.fr/"
         info:
           enable: true
