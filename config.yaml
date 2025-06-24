@@ -159,16 +159,10 @@ params:
     title: "A propos de moi"
     #image: "/images/Profil.jpg"
     content: |-
-      Titulaire d’un BTS SIO, du baccalauréat général et des certifications PIX et CNIL ainsi que le brevet des collèges,  
-      je m'intéresse à l'informatique depuis 2020. Cet intérêt s’étant développé durant le confinement lié au Covid-19. 
-      J'ai développé une passion pour l'informatique. Je suis en licence d’informatique option cybersécurité avec le CNAM en alternance avec l’école de gendarmerie de Chaumont, 
-      licence qui se termine fin juin. Je maîtrise plutôt bien les outils Windows ou Linux, du côté serveur ou client. 
+      Titulaire d’un BTS SIO, du baccalauréat général et des certifications PIX et CNIL ainsi que le brevet des collèges, je m'intéresse à l'informatique depuis 2020. Cet intérêt s’étant développé durant le confinement lié au Covid-19. 
+      J'ai développé depuis une passion pour l'informatique. Je suis en licence d’informatique option cybersécurité avec le CNAM en alternance avec l’école de gendarmerie de Chaumont, licence qui se termine fin juin. Je maîtrise plutôt bien les outils Windows ou Linux, du côté serveur ou client. 
       J'aspire à devenir technicien informatique ou administrateur système.
       
-      Titulaire d'un baccalauréat général et de la certification PIX, et ayant suivi les spécialités Physique-Chimie et SVT ainsi que la section européenne l'année 2021- 2022, 
-      je m'intéresse à l'informatique depuis 2020. Cet intérêt venant en grande partie du confinement lié au Covid-19. 
-      J'ai développé une passion pour l'informatique, principalement l'hardware. Je suis une licence d'informatique option cybersécurité en alternance, 
-      avec comme entreprise l'Ecole de Gendarmerie de Chaumont. J'aspire à devenir technicien informatique ou administrateur système.
     skills:
       enable: true
       title: "Systèmes et logiciels avec lesquels je suis à l'aise:"
