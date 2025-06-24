@@ -184,7 +184,7 @@ params:
     items:    
       - job: "Intermarché, Caissier Polyvalent"
         company: "INTERMARCHÉ"
-        date: "2024"
+        date: "Mars - Août 2024"
         info:
           enable: true
           content: "Caissier"
@@ -212,7 +212,7 @@ params:
         info:
           enable: true
           content: "Ecole de Gendarmerie de Chaumont"
-        content: "Alternant dans la cellule SIC 'Systèmes d'Information et de Communication."
+        content: "Alternant dans la cellule SIC (Systèmes d'Information et de Communication)."
 
   # Education
   education:
