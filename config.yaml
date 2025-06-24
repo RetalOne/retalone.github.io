@@ -210,7 +210,7 @@ params:
         content: "Alternant dans la cellule SIC."
 
       - job: "Alternant à l'ESOG de Chaumont"
-        company: "COMPANY"
+        company: "Ministère de l'Intérieur"
         date: "DATE"
         featuredLink:
           enable: true
