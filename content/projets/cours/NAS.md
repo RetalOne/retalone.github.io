@@ -14,4 +14,4 @@ toc:
 
 ## Mise en place d'un NAS
 
-Un NAS a été installé dans le but de sauvegarder les serveurs Windows et Linux de l'infrastructure, grâce au logiciel VEEAM BACKUP ET ZEBI.
+Un NAS a été installé dans le but de sauvegarder les serveurs Windows et Linux de l'infrastructure, grâce au logiciel VEEAM BACKUP.
