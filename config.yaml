@@ -27,12 +27,12 @@ Menus:
     - identifier: AP
       name: Projets cours
       title: Projets cours
-      url: /projets/cours/
+      url: /cours/
       weight: 1
     - identifier: Perso
       name: Projets perso
       title: Projets perso
-      ur: /projets/perso/
+      url: /perso/
       weight: 2
     - identifier: CV
       name: CV #titre donné dans la barre supérieure
