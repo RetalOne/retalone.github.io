@@ -216,7 +216,7 @@ params:
           url: "https://www.ecole-gendarmerie-chaumont.fr/"
         info:
           enable: true
-          content: "Ecole de Gendarmerie de Chaumont"
+          content: "Alternant puis contractuel"
         content: "Alternant puis contractuel dans la cellule SIC (Systèmes d'Information et de Communication)."
 
   # Education
