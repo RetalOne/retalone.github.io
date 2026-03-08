@@ -136,7 +136,7 @@ params:
     enable: true
     intro: "Salut, je suis"
     title: "William."
-    subtitle: "Un étudiant en licence d'informatique"
+    subtitle: "Un technicien informatique"
     content: "Spécialité réseaux"
     #image: /images/Profil.jpg
     bottomImage:
@@ -164,9 +164,9 @@ params:
     title: "A propos de moi"
     #image: "/images/Profil.jpg"
     content: |-
-      Titulaire d’un BTS SIO, du baccalauréat général et des certifications PIX et CNIL ainsi que le brevet des collèges, 
+      Titulaire d’une licence informatique option cyber, d'un BTS SIO, du baccalauréat général et des certifications PIX, CNIL et ANSSI ainsi que le brevet des collèges, 
       je m'intéresse à l'informatique depuis 2020. Cet intérêt s’étant développé durant le confinement lié au Covid-19. 
-      J'ai développé depuis une passion pour l'informatique. Je suis en licence d’informatique option cybersécurité avec le CNAM en alternance avec l’école de gendarmerie de Chaumont, 
+      
       licence qui se termine fin juin. Je maîtrise plutôt bien les outils Windows ou Linux, du côté serveur ou client. 
       J'aspire à devenir technicien informatique ou administrateur système.
       
@@ -207,9 +207,9 @@ params:
           content: "Stagiaire"
         content: "J'ai effectué mon stage de première et deuxième année de SIO à l'EPLEFPA Edgard Pisani de Chaumont pour une durée de 5 semaines. J'ai pu découvrir le métier d'administrateur réseau plus en profondeur, renforcer des aquis tout en augmentant la liste de ceux-ci."
 
-      - job: "Alternant à l'école de Gendarmerie de Chaumont"
+      - job: "Alternant puis contractuel à l'école de Gendarmerie de Chaumont"
         company: "Ecole de Gendarmerie de Chaumont"
-        date: "1er septembre 2024 - 31 Août 2025"
+        date: "1er septembre 2024 - 31 août 2025 puis 1er septembre 2025 - 25 août 2026"
         featuredLink:
           enable: true
           name: "Ecole de Gendarmerie de Chaumont"
@@ -217,7 +217,7 @@ params:
         info:
           enable: true
           content: "Ecole de Gendarmerie de Chaumont"
-        content: "Alternant dans la cellule SIC (Systèmes d'Information et de Communication)."
+        content: "Alternant puis contractuel dans la cellule SIC (Systèmes d'Information et de Communication)."
 
   # Education
   education:
@@ -231,7 +231,8 @@ params:
           url: "https://www.cnam-grandest.fr/lieux-de-formation/chaumont/"
         date: "Septembre 2024 - Juin 2025"
         content: |-
-          En attente des résultats
+          Diplôme obtenu
+          Certification cybersécurité obtenue
           
       - title: "BTS SIO"
         school:
