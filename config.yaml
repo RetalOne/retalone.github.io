@@ -290,6 +290,8 @@ params:
     enable: true
     title: "Diplômes"
     items:
+      - title: Licence générale Informatique option Cybersécurité
+        content: Obtention de la licence ainsi que du certificat Cybersécurité
       - title: BTS SIO
         content: Obtention du diplôme de BTS SIO option SISR
       - title: Baccalauréat Général
@@ -337,6 +339,10 @@ params:
           - "NAS"
           - "TRUENAS"
           - "SERVEUR"
+
+      - title: Serveur WEB
+        content: Mise en place et paramétrage d'un serveur WEB me servant d'hôte pour un site internet à usage personnel
+        image: /images/projects/web.jpg
         #links:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/HugoProfileV2
