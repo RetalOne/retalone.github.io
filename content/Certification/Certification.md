@@ -24,6 +24,9 @@ toc:
 ## [MODULE 5: LES COLLECTIVITÉS TERRITORIALES](/images/Certifications/CNIL/5.pdf)
 ![Certifications](/images/Certifications/CNIL/5.png "Module 5")
 
+## [MODULE 6: TRAVAIL ET DONNÉES PERSONNELLES](/images/Certifications/CNIL/6.pdf)
+![Certifications](/images/Certifications/CNIL/6.png "Module 6")
+
 ## [Certification Pix N°1](/images/Certifications/Pix/Pix1.pdf)
 ![Certifications](/images/Certifications/Pix/Pix1.png "Pix 1")
 
