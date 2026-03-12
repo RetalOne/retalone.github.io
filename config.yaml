@@ -369,7 +369,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/RetalOne
-      linkedin: https://linkedin.com
+      linkedin: https://linkedin.com/in/william-rascagneres-19a5162b0
       #twitter: https://twitter.com/OneRetal
       #instagram: https://instagram.com/retaloneofficial
       #facebook: https://facebook.com
@@ -391,7 +391,7 @@ params:
     read: "Read"
     toc: "Table Of Contents"
     copyright: "Made By William with HUGO"
-    pageNotFound: "Vous avez trouvé... le néant. Il n'y a rien ici, pas encore, ou peut-être que si? Si vous pensez être au bon endroit, contactez-moi."
+    pageNotFound: "Bienvenue dans le warp. Il n'y a rien ici, pas encore, ou peut-être que si? Si vous pensez être au bon endroit, contactez-moi."
     emailText: "Mon portfolio"
 
   datesFormat:
