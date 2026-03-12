@@ -165,10 +165,10 @@ params:
     #image: "/images/Profil.jpg"
     content: |-
       Titulaire d’une licence informatique option cyber, d'un BTS SIO, du baccalauréat général et des certifications PIX, CNIL et ANSSI ainsi que le brevet des collèges, 
-      je m'intéresse à l'informatique depuis 2020. Cet intérêt s’étant développé durant le confinement lié au Covid-19. 
+      je m'intéresse à l'informatique depuis 2020. Cet intérêt s’étant développé durant le confinement lié au Covid-19.
+
+      Actuellement au sein de la cellule SIC de l'école de Gendarmerie de Chaumont, je maîtrise avec aisance les outils Windows et Linux, du côté serveur ou client. 
       
-      licence qui se termine fin juin. Je maîtrise plutôt bien les outils Windows ou Linux, du côté serveur ou client. 
-      J'aspire à devenir technicien informatique ou administrateur système.
       
     skills:
       enable: true
