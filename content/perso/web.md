@@ -1,6 +1,5 @@
 ---
 title: "Serveur WEB"
-date: 2025T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
