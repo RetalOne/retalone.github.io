@@ -1,5 +1,5 @@
 ---
-title: "Licence"
+title: "Licence informatique option Cybersécurité"
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
