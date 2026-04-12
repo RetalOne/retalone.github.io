@@ -44,6 +44,11 @@ Menus:
       title: Certifications
       url: /Certification/
       weight: 4
+    - identifier: Diplômes
+      name: Diplômes
+      title: Diplômes
+      url: /diplomes/
+      weight: 5
 
     
     #Dropdown menu
