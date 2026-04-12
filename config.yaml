@@ -24,11 +24,11 @@ markup:
 
 Menus:
   main:
-    - identifier: AP
-      name: Projets cours
-      title: Projets cours
-      url: /cours/
-      weight: 1
+    #- identifier: AP
+      #name: Projets cours
+      #title: Projets cours
+      #url: /cours/
+      #weight: 1
     - identifier: Perso
       name: Projets perso
       title: Projets perso
