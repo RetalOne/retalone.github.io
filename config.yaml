@@ -29,9 +29,9 @@ Menus:
       #title: Projets cours
       #url: /cours/
       #weight: 1
-    - identifier: Perso
-      name: Projets perso
-      title: Projets perso
+    - identifier: Personnel
+      name: Projets personnels
+      title: Projets personnels
       url: /perso/
       weight: 2
     - identifier: CV
