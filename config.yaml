@@ -2,6 +2,7 @@ baseURL: "https://retalone.github.io"
 languageCode: "fr-fr"
 title: "Portfolio de William"
 theme: hugo-profile
+defaultContentLanguage: "fr"
 
 outputs:
   home:
@@ -29,7 +30,7 @@ Menus:
       #title: Projets cours
       #url: /cours/
       #weight: 1
-    - identifier: Personnel5
+    - identifier: Personnel
       name: Projets personnels
       title: Projets personnels
       url: /personnel/
