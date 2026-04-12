@@ -12,5 +12,5 @@ toc: Test
 ## [LICENCE](/images/Licence/Licence.pdf)
 ![Certifications](/images/Licence/Licence.png "Licence")
 
-## [LICENCE](/images/Licence/Certification.pdf)
+## [CERTIFICATION CYBER](/images/Licence/Certification.pdf)
 ![Certifications](/images/Licence/Certification.png "Certification Cyber")
