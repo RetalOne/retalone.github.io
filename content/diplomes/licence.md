@@ -5,9 +5,12 @@ draft: false
 author: "William"
 #image: /images/Licence/cnam.png
 description: "Licence informatique option Cybersécurité"
-toc: 
+toc: Test
 ---
 
-## TITLE
+## ATTESTATION DE DIPLÔME
+## [LICENCE](/images/Licence/Licence.pdf)
+![Certifications](/images/Licence/Licence.png "Licence")
 
-CORPS
+## [LICENCE](/images/Licence/Certification.pdf)
+![Certifications](/images/Licence/Certification.png "Certification Cyber")
