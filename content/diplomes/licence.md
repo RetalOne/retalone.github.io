@@ -1,5 +1,6 @@
 ---
 title: "Licence informatique option Cybersécurité"
+date: 2025-07-01T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
