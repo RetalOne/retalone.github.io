@@ -32,7 +32,7 @@ Menus:
     - identifier: Personnel
       name: Projets personnels
       title: Projets personnels
-      url: /perso/
+      url: /personnel/
       weight: 2
     - identifier: CV
       name: CV #titre donné dans la barre supérieure
