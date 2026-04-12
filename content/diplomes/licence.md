@@ -4,7 +4,7 @@ date: 2025-07-01T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
-#image: /images/Licence/cnam.png
+image: /images/Licence/cnam.png
 description: "Licence informatique option Cybersécurité"
 toc: Test
 ---
