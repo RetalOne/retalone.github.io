@@ -292,7 +292,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     title: "Diplômes"
     items:
       - title: Licence générale Informatique option Cybersécurité
