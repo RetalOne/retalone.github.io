@@ -144,7 +144,7 @@ params:
     title: "William."
     subtitle: "Un technicien informatique"
     content: "Spécialité réseaux"
-    #image: /images/Profil.jpg
+    image: /images/William.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
