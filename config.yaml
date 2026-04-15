@@ -319,7 +319,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     title: "Projets personnels"
     items:
       - title: Ce portfolio
