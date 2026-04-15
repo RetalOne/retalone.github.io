@@ -10,5 +10,5 @@ toc: Test
 ---
 
 ## ATTESTATION DE DIPLÔME
-## [DNB](/images/DNB/DNB.pdf)
+## [Diplôme National du Brevet téléchargeable](/images/DNB/DNB.pdf)
 ![DNB](/images/DNB/DNB.jpg "DNB")
