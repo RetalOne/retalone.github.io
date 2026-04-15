@@ -11,6 +11,6 @@ description: "Petit projet personnel, la mise en place d'un NAS me servant de se
 toc: 
 ---
 
-## Mise en place d'un serveur web sous Ubuntu Server
+## Mise en place d'un NAS
 
-Petit projet personnel, la mise en place d'un NAS me servant de serveur.
+Petit projet personnel, la mise en place d'un NAS me servant de serveur de fichier et d'hyperviseur.
