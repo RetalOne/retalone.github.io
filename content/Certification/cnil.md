@@ -1,5 +1,5 @@
 ---
-title: "Certifications" #titre de la page
+title: "Certifications CNIL" #titre de la page
 date: 2024-01-17T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
@@ -26,12 +26,3 @@ toc:
 
 ## [MODULE 6: TRAVAIL ET DONNÉES PERSONNELLES](/images/Certifications/CNIL/6.pdf)
 ![Certifications](/images/Certifications/CNIL/6.png "Module 6")
-
-## [Certification Pix N°1](/images/Certifications/Pix/Pix1.pdf)
-![Certifications](/images/Certifications/Pix/Pix1.png "Pix 1")
-
-## [Certification Pix N°2](/images/Certifications/Pix/Pix2.pdf)
-![Certifications](/images/Certifications/Pix/Pix2.png "Pix 2")
-
-## [Certification ANSSI: En cours](/images/Certifications/ANSSI/ANSSI.pdf)
-![Certifications](/images/Certifications/ANSSI/ANSSI.png "ANSSI")
