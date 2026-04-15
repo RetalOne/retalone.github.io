@@ -4,7 +4,7 @@ date: 2019-07-01
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
-image: /images/DNB/Brevet.png
+image: /images/DNB/Brevet.jpg
 description: "Diplôme National du Brevet"
 toc: Test
 ---
