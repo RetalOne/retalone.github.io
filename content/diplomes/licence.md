@@ -10,8 +10,8 @@ toc: Test
 ---
 
 ## ATTESTATION DE DIPLÔME
-## [LICENCE](/images/Licence/Licence.pdf)
+## [Licence téléchargeable](/images/Licence/Licence.pdf)
 ![Licence](/images/Licence/Licence.jpg "Licence")
 
-## [CERTIFICATION CYBER](/images/Licence/Certification.pdf)
+## [Certification Cyber téléchargeable](/images/Licence/Certification.pdf)
 ![Certification cyber](/images/Licence/Certification.jpg "Certification Cyber")
