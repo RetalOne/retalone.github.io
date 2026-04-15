@@ -1,5 +1,5 @@
 ---
-title: "PIX" #titre de la page
+title: "Certifications PIX" #titre de la page
 date: 2024-01-17T22:53:58+05:30
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
