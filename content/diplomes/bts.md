@@ -10,5 +10,5 @@ toc: Test
 ---
 
 ## ATTESTATION DE DIPLÔME
-## [Brevet de Technicien Supérieur](/images/BTS/BTS.pdf)
+## [Brevet de Technicien Supérieur téléchargeable](/images/BTS/BTS.pdf)
 ![Brevet de Technicien Supérieur](/images/BTS/BTS.jpg "BTS")
