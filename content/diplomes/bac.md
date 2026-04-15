@@ -10,5 +10,5 @@ toc: Test
 ---
 
 ## ATTESTATION DE DIPLÔME
-## [Baccalauréat général](/images/BAC/BAC.pdf)
+## [Baccalauréat général téléchargeable](/images/BAC/BAC.pdf)
 ![BAC](/images/BAC/BAC.jpg "BAC")
