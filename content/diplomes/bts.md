@@ -1,6 +1,6 @@
 ---
 title: "Brevet de Technicien Supérieur - Services Informatiques aux Organisations"
-date: 2025-07-01T22:53:58+05:30
+date: 2024-07-01
 draft: false
 #github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "William"
